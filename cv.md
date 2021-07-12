@@ -43,14 +43,24 @@ Smart Web - Markup Developer *03/2017 - 10/2017*
 
 ## Education
 
-**Georgian Technical University** | Informatics and Control Systems, Bachelor's student | *2017 - Present*
-**University of Valladolid (Spain)**  | Engineering International Semester | *02/2020 - 06/2020*
+**Georgian Technical University** 
+
+Informatics and Control Systems, Bachelor's student *2017 - Present
+
+**University of Valladolid (Spain)**  
+
+Engineering International Semester *02/2020 - 06/2020*
 
 
 ## Trainings and Courses
 
-**Udemy** | Accelerated JavaScript Training by Maximilian Schwarzmüller | 09/2019
-**Georgia's Innovation and Technology Agency** | Basics of Front-end Web Development | *10/2016 – 11/2016*
+**Udemy** 
+
+Accelerated JavaScript Training by Maximilian Schwarzmüller *09/2019*
+
+**Georgia's Innovation and Technology Agency** 
+
+Basics of Front-end Web Development *10/2016 – 11/2016*
 
 
 ## English
