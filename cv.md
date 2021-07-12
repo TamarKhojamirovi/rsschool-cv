@@ -43,7 +43,7 @@ Smart Web - Markup Developer *03/2017 - 10/2017*
 
 ## Education
 
-**Georgian Technical University** - Informatics and Control Systems, Bachelor's student *2017 - Present
+**Georgian Technical University** - Informatics and Control Systems, Bachelor's student *2017 - Present*
 
 **University of Valladolid (Spain)** - Engineering International Semester *02/2020 - 06/2020*
 
